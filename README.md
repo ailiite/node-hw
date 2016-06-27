@@ -1,2 +1,4 @@
 # node-hw
-NodeJS Hello World
+NodeJS Incredibly basic webapp
+
+Used for testing EB deploys 
